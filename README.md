@@ -4,4 +4,4 @@ Repositorio para almacenar el código y demás que vaya haciendo en mi TFM. Dura
 Pasos por ahora:
 * Realizacion del preprocesado de las lesiones con éxito.
 * Disponemos únicamente de 12 imágenes de la totalidad de las 307, pero se ha hecho uso de técnicas de Data Augmentation con lo que terminamos con 84.
-* Se ha probado el modelo más básico, una regresión logística sin tener en cuenta la información sobre la histología, consiguiendo un AUC de aproximadamente 56%.
+* Se ha probado el modelo más básico, una regresión logística sin tener en cuenta la información sobre la histología, consiguiendo un AUC de aproximadamente 62% y un recall del 45%.
